@@ -1,0 +1,10 @@
+num = []
+num.append(3)
+num.append(4)
+num.append(5)
+num.append(6)
+print(num)
+num.pop()
+print(num)
+print(num.pop())
+print(num)
